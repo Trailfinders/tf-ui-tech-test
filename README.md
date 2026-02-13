@@ -1,6 +1,6 @@
-# 🎨 UX/UI Designer — Technical Test
+# 🎨 Junior UX/UI Designer — Technical Test
 
-**Time:** ~2 hours &nbsp;|&nbsp; **Tool:** Figma (free account is fine) &nbsp;|&nbsp; **Format:** 1 page, desktop
+**Time:** ~2 hours &nbsp;|&nbsp; **Tool:** Figma (free account is fine) &nbsp;|&nbsp; **Format:** 1 page — desktop (1440px) or mobile (390px), your choice
 
 ---
 
@@ -26,13 +26,15 @@ The current page exists, but we'd like to see your fresh take on it. Think about
 
 ## 🧍 The User
 
-The typical visitor to this page is a UK-based traveller, likely 40+, with travel experience. They may be comparing holiday styles or arriving after searching "private touring holidays." They know roughly what they want — a tailored, personal experience — but they need to be convinced that Trailfinders is the right company to book it with, and inspired to take the next step.
+The typical visitor to this page is a UK-based traveller, likely 40+, with travel experience and a higher disposable income. They may be comparing holiday styles or arriving after searching "private touring holidays." They know roughly what they want — a tailored, personal experience — but they need to be convinced that Trailfinders is the right company to book it with, and inspired to take the next step.
 
 ---
 
 ## ✏️ What to Design
 
-**One desktop page** at 1440px wide. You are redesigning the Private Touring *landing page* — not a specific tour detail page. Think of it like a category or hub page: it explains what private touring is, why Trailfinders does it well, and directs visitors to the right next step.
+**One page — your choice of desktop (1440px) or mobile (390px).** You are redesigning the Private Touring *landing page* — not a specific tour detail page. Think of it like a category or hub page: it explains what private touring is, why Trailfinders does it well, and directs visitors to the right next step.
+
+Pick whichever format you feel strongest in. If you choose mobile, think carefully about how sections stack, how CTAs behave on a small screen, and how imagery works in a narrower layout. If you choose desktop, think about use of whitespace, grid, and visual hierarchy across a wide canvas. Either is valid — just tell us your choice and why in `NOTES.md`.
 
 Your page must include all five of the following sections. The order and visual treatment are entirely your decision.
 
@@ -83,7 +85,7 @@ Include at minimum: a prompt to get in touch, a reference to the specialist team
 
 ## 🎯 Design Requirements
 
-- **Desktop first** — design at 1440px wide. No mobile version required.
+- **Desktop (1440px) or mobile (390px)** — pick one and commit to it. Tell us why you chose it.
 - **Cohesive page** — all sections should feel like one brand, not five separate blocks.
 - **Max 2 typefaces** — prioritise legibility and hierarchy over variety.
 - **Considered colour palette** — reflect a trusted, premium British travel brand. Explain your choices in `NOTES.md`. The existing Trailfinders brand uses deep navy and red — you can stay close to this or propose a refined direction. Either is valid, but explain why.
@@ -96,9 +98,11 @@ Include at minimum: a prompt to get in touch, a reference to the specialist team
 Push the following to your forked GitHub repo:
 
 ```
-uxui-test/
+junior-uxui-test/
 ├── screens/
 │   └── private-touring-page.png    ← Export your full page as a PNG (1x or 2x)
+│                                      Name it private-touring-desktop.png or
+│                                      private-touring-mobile.png as appropriate
 ├── components/
 │   └── components.png              ← Any reusable components you designed (optional but encouraged)
 ├── NOTES.md                        ← Your design notes (template provided)
@@ -131,4 +135,3 @@ This is just as important as the design itself.
 ---
 
 Good luck — we're looking forward to seeing what you come up with! 🎉
-# tf-ui-tech-test

@@ -6,6 +6,8 @@
 
 ## 🎨 Key Design Decisions
 
+**Format chosen (desktop or mobile)** — *Which did you pick and why?*
+
 **Colour palette** — *What did you choose and why does it suit Trailfinders as a brand?*
 
 **Typography** — *What fonts did you use and why?*

@@ -28,11 +28,14 @@ All five sections are required. Order and visual treatment are your decision.
 
 ## Canvas Specs
 
-| | |
-|---|---|
-| Width | 1440px |
-| Format | Single full-length page |
-| Mobile | Not required |
+Choose **one** format and design for it fully.
+
+| Format | Width | Notes |
+|--------|-------|-------|
+| **Desktop** | 1440px | Think whitespace, grid, wide imagery |
+| **Mobile** | 390px | Think stacking, thumb-friendly CTAs, scroll |
+
+Tell us which you chose and why in `NOTES.md`.
 
 ---
 
